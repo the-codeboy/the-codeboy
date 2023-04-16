@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @the-codeboy
-- 👀 I’m interested in programming
-- 💞️ I’m looking to collaborate on anything
+- 👀 I like Java and Minecraft
 - 📫 You can contact me at mail@the-codeboy.com
 
 
